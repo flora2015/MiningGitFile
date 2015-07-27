@@ -1,0 +1,3 @@
+# MiningGitFile
+
+add for test
